@@ -6,7 +6,7 @@ import Form from "./Form";
 
 function App() {
   //variable to hold URL
-    const url = "http://mfzendogbackend.herokuapp.com"
+    const url = "https://mfzendogbackend.herokuapp.com"
   //State to hold dogs
   const[dogs, setDogs] = React.useState([])
   //EMPTY DOG
